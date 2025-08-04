@@ -1,4 +1,13 @@
-# ADAPTATION IS THE KEY (aka **adapt-key**)
+# ADAPTIVE RAG
 
-> **Adaptive Retrieval-Augmented Generation (RAG) pipeline built on LangGraph**  
-> Because in LLM-land, *adaptation is the key*
+Adaptive RAG pipeline built on LangGraph 
+
+---
+
+![alt text](adaptive-rag-structure.png)
+
+---
+
+## Resources
+- [GitHub Repo](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_adaptive_rag.ipynb)
+- [Arxiv Paper](https://arxiv.org/abs/2403.14403)
